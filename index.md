@@ -1,4 +1,4 @@
-# Access the <Var:ProductName> APIs
+# Access the Tridion Docs APIs
 
 ## [Learn more about Tridion Docs APIs](apiconcepts/overview.md) 
 Learn more about the APIs and what you can achieve with them.
