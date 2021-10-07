@@ -4,6 +4,20 @@ This section contains information for developers to develop applications on top 
 
 Only described API classes and functions are supported and can be used. Do not use any other API function because they are subject to change.
 
+## PowerShell modules
+
+### [ISHDeploy](https://rws.github.io/ISHDeploy/)
+ISHDeploy is a PowerShell module that enables the code-as-configuration concept for Tridion Docs, starting from version 13.0.0 including 14.0.3. 
+
+### [ISHRemote](https://github.com/RWS/ISHRemote)
+ISHRemote is a PowerShell module on top of Tridion Docs Content Manager. Its goal is business automation on top of the Component Content Management System.
+
+### [ISHServer](https://github.com/RWS/ISHServer)
+ISHServer is a PowerShell module to help automate installation of prerequisites for SDL Tridion Docs
+
+### [ISHBootstrap](https://github.com/RWS/ISHBootstrap)
+ISHBootstrap is a bootstrapper for deployments of Tridion Docs Content Manager
+
 ## Tridion DXA ##
 This section is intended for developers wanting to extend DXA functionality using it's open-source .NET and Java APIs.
 
