@@ -1,13 +1,16 @@
 # Tridion Docs API Documentation #
-## [Content Manager API](https://docs.rws.com/806356/604329/sdl-tridion-docs-14-sp3/content-manager-api) ##
+## [Content Manager API](https://docs.rws.com/992513/75782/tridion-docs-14-sp4/content-manager-api) ##
 This section contains information for developers to develop applications on top of the Content Manager web services API.
 
-Only described API classes and functions are supported and can be used. Do not use any other API function because they are subject to change.
+## [Content Manager API compatibility across releases](https://docs.rws.com/992513/331933/tridion-docs-14-sp4/content-manager-api-compatibility-across-releases)
+Overview about which web service methods are available, supported or deprecated on a specific Content Manager version.
+
+Only described API classes and functions are supported and can be used. Do not use any other API function as they are subject to change.
 
 ## PowerShell modules
 
 ### [ISHDeploy](https://rws.github.io/ISHDeploy/)
-ISHDeploy is a PowerShell module that enables the code-as-configuration concept for Tridion Docs, starting from version 13.0.0 including 14.0.3. 
+ISHDeploy is a PowerShell module that enables the code-as-configuration concept for Tridion Docs, starting from version 13.0.0 including 14.0.4.
 
 ### [ISHRemote](https://github.com/RWS/ISHRemote)
 ISHRemote is a PowerShell module on top of Tridion Docs Content Manager. Its goal is business automation on top of the Component Content Management System.
@@ -31,7 +34,7 @@ Set up a .NET development environment to customize or extend the DXA .NET web ap
 [Java web application development](https://docs.rws.com/784837/720545/sdl-digital-experience-accelerator-2-2/java-web-application-development)
 Set up a Java development environment to customize or extend the DXA Java web application.
 
-[Using SDL's public APIs](https://docs.rws.com/784837/679912/sdl-digital-experience-accelerator-2-2/using-sdl-s-public-apis)
+[Using RWS's public APIs](https://docs.rws.com/784837/679912/sdl-digital-experience-accelerator-2-2/using-sdl-s-public-apis)
 Use the available public APIs to extend and customize the behavior DXA.
 
 [Creating the folder structure for a custom module](https://docs.rws.com/784837/651695/sdl-digital-experience-accelerator-2-2/creating-the-folder-structure-for-a-custom-module)
@@ -45,4 +48,3 @@ Links to download the API reference documentation for RWS Digital Experience Acc
 - [DXA API for .NET](https://docs.sdl.com/DXA/DotNET/2.2/APIDOC/)
 - [DXA API for Java](https://docs.sdl.com/DXA/Java/2.2/APIDOC/)
 - [Content Delivery's Public Content API](https://sdl.dist.sdlmedia.com/distributions/?o=630F7F0D-AF6C-4A9C-A1E7-B285FA52E75A)
-
