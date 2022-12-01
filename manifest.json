@@ -26,11 +26,35 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "apiconcepts/Tridion Docs 14SP3/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "apiconcepts/Tridion Docs 14SP3/overview.html",
+          "hash": "ho2uKZQEHyei59uFjtifducHKbxon7WAnB1WX68JCKs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "apiconcepts/Tridion Docs 14SP4/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "apiconcepts/Tridion Docs 14SP4/overview.html",
+          "hash": "PeOHUI/1eZ9HrL2o+a0c+SpIZJznvyVy6Upl4gtXbAQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "apiconcepts/overview.md",
       "output": {
         ".html": {
           "relative_path": "apiconcepts/overview.html",
-          "hash": "kM1VFkLqJujt2dHRA7HDPr6qc74L9q6Ibap0Cz6Z7/0="
+          "hash": "AYDJgAfDn8mBo9CxvpngzvXYDTGpLxcIMTPKfNAp/zQ="
         }
       },
       "is_incremental": false,
@@ -54,7 +78,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "XqhAW9wmV/Yd3xYOsh3tYF5LOosOKkzApAXhqi5QBkY="
+          "hash": "EiDF3o8Clu08Z0zHie+jsuglIQiOuP/Df2uCWc9uyL8="
         }
       },
       "is_incremental": false,
@@ -78,7 +102,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "dOhBHeqQ7Cx2WTyVoKTuKldH1bFOES6G6sLJtRJsYZ0="
+          "hash": "ZG5boUQf75Ir6wKttk7/0VsGs8moCh8sK6niUF/a33c="
         }
       },
       "is_incremental": false,
@@ -111,7 +135,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 4,
+          "total_file_count": 6,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
