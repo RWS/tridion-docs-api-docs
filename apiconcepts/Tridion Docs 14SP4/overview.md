@@ -1,5 +1,5 @@
 # Tridion Docs API Documentation #
-## [Content Manager API](https://docs.rws.com/806356/604329/sdl-tridion-docs-14-sp4/content-manager-api) ##
+## [Content Manager API](https://docs.rws.com/806356/604329/tridion-docs-14-sp4/content-manager-api) ##
 This section contains information for developers to develop applications on top of the Content Manager web services API.
 
 Only described API classes and functions are supported and can be used. Do not use any other API function because they are subject to change.
@@ -13,7 +13,7 @@ ISHDeploy is a PowerShell module that enables the code-as-configuration concept 
 ISHRemote is a PowerShell module on top of Tridion Docs Content Manager. Its goal is business automation on top of the Component Content Management System.
 
 ### [ISHServer](https://github.com/RWS/ISHServer)
-ISHServer is a PowerShell module to help automate installation of prerequisites for SDL Tridion Docs
+ISHServer is a PowerShell module to help automate installation of prerequisites for Tridion Docs
 
 ### [ISHBootstrap](https://github.com/RWS/ISHBootstrap)
 ISHBootstrap is a bootstrapper for deployments of Tridion Docs Content Manager
@@ -31,7 +31,7 @@ Set up a .NET development environment to customize or extend the DXA .NET web ap
 [Java web application development](https://docs.rws.com/784837/720545/sdl-digital-experience-accelerator-2-2/java-web-application-development)
 Set up a Java development environment to customize or extend the DXA Java web application.
 
-[Using SDL's public APIs](https://docs.rws.com/784837/679912/sdl-digital-experience-accelerator-2-2/using-sdl-s-public-apis)
+[Using RWS's public APIs](https://docs.rws.com/784837/679912/sdl-digital-experience-accelerator-2-2/using-sdl-s-public-apis)
 Use the available public APIs to extend and customize the behavior DXA.
 
 [Creating the folder structure for a custom module](https://docs.rws.com/784837/651695/sdl-digital-experience-accelerator-2-2/creating-the-folder-structure-for-a-custom-module)
