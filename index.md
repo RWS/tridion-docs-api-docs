@@ -8,9 +8,9 @@ To let us know what your suggested improvements are you can do this by using the
 
 
 
-## [Learn more about Tridion Docs 14SP4 APIs](apiconcepts/Tridion Docs 14SP4/overview.md)
+## [Learn more about Tridion Docs 14SP4 APIs](apiconcepts/Tridion_Docs_14SP4/overview.md)
 Learn more about the APIs and what you can achieve with them.
-## [Learn more about Tridion Docs 14SP3 APIs](apiconcepts/Tridion Docs 14SP3/overview.md)
+## [Learn more about Tridion Docs 14SP3 APIs](apiconcepts/Tridion_Docs_14SP3/overview.md)
 Learn more about the APIs and what you can achieve with them.
 
 
