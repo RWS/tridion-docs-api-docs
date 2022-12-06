@@ -76,15 +76,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "articles/intro.md",
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "NOw/MPPp8ULlGiDD0oU6sTLUBgkr6myziktrsA6aGmw="
+          "hash": "ik0Dg34PvPhmfpj029mkdMEnKi4zqJ5W7d3N5rKuhko="
         }
       },
       "is_incremental": false,
