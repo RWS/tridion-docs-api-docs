@@ -45,9 +45,9 @@
       "api/**.yml": ["csharp", "vb", "fsharp", "cpp"]
       }
     },
-	"template": [
-		"RWSDocsTemplate"
-	],
+    "template": [
+      "RWSDocsTemplate"
+    ],
     "postProcessors": [ "ExtractSearchIndex" ],
     "markdownEngineName": "dfm",
     "noLangKeyword": false,

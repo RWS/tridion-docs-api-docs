@@ -1,4 +1,4 @@
-# Welcome to the Tridion Docs API documentation.
+# Welcome to the Tridion Docs API documentation
 
 Here you’ll find all the information you need to get started developing against your own instance of Tridion Docs. Discover quick guides explaining how to build, develop and deploy your app, plus hints and tips to help you make the most of our APIs.
 
@@ -8,11 +8,20 @@ To let us know what your suggested improvements are you can do this by using the
 
 
 
-## [Learn more about Tridion Docs 14SP4 APIs](apiconcepts/Tridion_Docs_14SP4/overview.md)
+## Current release: Tridion Docs 14 SP4
+
+[Learn more about the Tridion Docs 14SP4 APIs](apiconcepts/Tridion_Docs_14SP4/overview.md)
+
 Learn more about the APIs and what you can achieve with them.
-## [Learn more about Tridion Docs 14SP3 APIs](apiconcepts/Tridion_Docs_14SP3/overview.md)
+
+## Earlier releases
+
+### Tridion Docs 14 SP3
+[Learn more about the Tridion Docs 14SP3 APIs](apiconcepts/Tridion_Docs_14SP3/overview.md)
+
 Learn more about the APIs and what you can achieve with them.
 
 
 Good luck and happy developing!
+
 RWS
