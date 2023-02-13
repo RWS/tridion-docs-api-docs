@@ -1,0 +1,3 @@
+{{!include(logo.svg)}}
+  <img id="logo" class="svg" src="{{_rel}}{{{_appLogoPath}}}{{^_appLogoPath}}logo.svg{{/_appLogoPath}}" alt="{{_appName}}" >
+  <img id="logo" class="svg" src="{{_rel}}logo.svg" alt="{{_appName}}" >
