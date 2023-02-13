@@ -345,6 +345,8 @@ article section {
 #autocollapse .navbar-header {
   margin-left: 0;
   margin-right: 2rem;
+  display: flex;
+  align-items: center;
 }
 
 #autocollapse .navbar-brand {

@@ -342,6 +342,16 @@ body {
   }
 }
 
+/* Copied over from the developers.rws.com front page's combo.css file */
+.navbar-header .page-logo {
+  font-size: 22px;
+  font-weight: 700;
+  color: #979FB2;
+  margin-left: 1rem;
+}
+
+
+
 figure {
   margin: 0;
 }
