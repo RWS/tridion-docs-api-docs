@@ -1,4 +1,4 @@
-# Welcome to the Tridion Docs API documentation
+# Welcome to the Tridion Docs developer documentation
 
 Here you’ll find all the information you need to get started developing against your own instance of Tridion Docs. Discover quick guides explaining how to build, develop and deploy your app, plus hints and tips to help you make the most of our APIs.
 
