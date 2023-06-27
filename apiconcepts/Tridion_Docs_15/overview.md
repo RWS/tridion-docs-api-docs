@@ -44,4 +44,4 @@ Domain (Content Manager) Models are mapped to the Presentation (View) Models usi
 Links to download the API reference documentation for RWS Digital Experience Accelerator.
 - [DXA API for .NET](https://docs.sdl.com/DXA/DotNET/2.2/APIDOC/)
 - [DXA API for Java](https://docs.sdl.com/DXA/Java/2.2/APIDOC/)
-- [Content Delivery's Public Content API](https://internaldocs.sdl.com/binary/992525/745653/tridion-docs-15/tridion-content-delivery-public-content-api-graphql-)
+- [Content Delivery's Public Content API](https://docs.rws.com/binary/992527/745661/tridion-docs-15/tridion-sites-content-delivery-restful-api-java-)
