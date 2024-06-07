@@ -1,12 +1,12 @@
 # Tridion Docs API Documentation #
-## [Content Manager API](https://docs.rws.com/992513/75782/tridion-docs-14-sp4/content-manager-api) ##
-This section contains information for developers to develop applications on top of the Content Manager web services API.
+## [Content Manager Web Services API](https://docs.rws.com/TridionDocs15.1/WebServicesAPI) ##
+This section contains information for developers to develop applications on top of the Content Manager Web Services API.
 
-Only described API classes and functions are supported and can be used. Do not use any other API function because they are subject to change.
+Only described API classes and functions are supported and can be used. Do not use any other API function, because they are subject to change.
 
 ## PowerShell modules
 
-### [ISHDeploy](https://docs.rws.com/ISHDeploy/)
+### [ISHDeploy](https://docs.rws.com/TridionDocs15.1/ISHDeploy/)
 ISHDeploy is a PowerShell module that enables the code-as-configuration concept for Tridion Docs, starting from version 13.0.0, up to and including 15.1.0.
 
 ### [ISHRemote](https://github.com/RWS/ISHRemote)
@@ -19,7 +19,7 @@ ISHServer is a PowerShell module to help automate installation of prerequisites 
 ISHBootstrap is a bootstrapper for deployments of Tridion Docs Content Manager
 
 ## Tridion DXA ##
-This section is intended for developers wanting to extend DXA functionality using it's open-source .NET and Java APIs.
+This section is intended for developers wanting to extend DXA functionality using its open-source .NET and Java APIs.
 
 ### Customizing and extending DXA ###
 [Development prerequisites](https://docs.rws.com/784837/720093/sdl-digital-experience-accelerator-2-2/development-prerequisites)
@@ -44,4 +44,4 @@ Domain (Content Manager) Models are mapped to the Presentation (View) Models usi
 Links to download the API reference documentation for RWS Digital Experience Accelerator.
 - [DXA API for .NET](https://docs.sdl.com/DXA/DotNET/2.2/APIDOC/)
 - [DXA API for Java](https://docs.sdl.com/DXA/Java/2.2/APIDOC/)
-- [Content Delivery's Public Content API](https://docs.rws.com/binary/992513/745653/tridion-docs-14-sp4/tridion-sites-content-delivery-public-content-api-graphql-)
+- [Content Delivery's Public Content API](https://docs.rws.com/TridionDocs15.1/PublicContentAPIReference)

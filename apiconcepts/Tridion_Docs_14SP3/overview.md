@@ -7,7 +7,7 @@ Only described API classes and functions are supported and can be used. Do not u
 ## PowerShell modules
 
 ### [ISHDeploy](https://rws.github.io/ISHDeploy/)
-ISHDeploy is a PowerShell module that enables the code-as-configuration concept for Tridion Docs, starting from version 13.0.0 including 14.0.3.
+ISHDeploy is a PowerShell module that enables the code-as-configuration concept for Tridion Docs, starting from version 13.0.0, up to and including 15.1.0.
 
 ### [ISHRemote](https://github.com/RWS/ISHRemote)
 ISHRemote is a PowerShell module on top of Tridion Docs Content Manager. Its goal is business automation on top of the Component Content Management System.
