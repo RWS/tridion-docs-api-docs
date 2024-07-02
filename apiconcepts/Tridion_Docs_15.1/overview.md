@@ -2,7 +2,7 @@
 ## [Content Manager Web Services API](https://docs.rws.com/TridionDocs15.1/WebServicesAPI) ##
 This section contains information for developers to develop applications on top of the Content Manager Web Services API.
 
-You can only use the API classes and functions that are available from this page. Any other API functions are subject to change and not supported externally, so you should not not use them.
+You can only use the API classes and functions that are available from this page. Any other API functions are subject to change and not supported externally, so you should not use them.
 
 ## PowerShell modules
 
