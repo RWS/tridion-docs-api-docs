@@ -32,16 +32,16 @@ Set up a .NET development environment to customize or extend the DXA .NET web ap
 Set up a Java development environment to customize or extend the DXA Java web application.
 
 [Using RWS's public APIs](https://docs.rws.com/784837/679912/sdl-digital-experience-accelerator-2-2/using-sdl-s-public-apis)
-Use the available public APIs to extend and customize the behavior DXA.
+Use the available public APIs to extend and customize the behavior of DXA.
 
 [Creating the folder structure for a custom module](https://docs.rws.com/784837/651695/sdl-digital-experience-accelerator-2-2/creating-the-folder-structure-for-a-custom-module)
-A custom module implements a distinct piece of functionality that is only relevant to some implementations. When you want to add a module to RWS Digital Experience Accelerator, you need to create a folder structure in Content Manager.
+A custom module implements a distinct piece of functionality that is only relevant to some implementations. When you want to add a module to DXA, you need to create a folder structure in Content Manager.
 
 [Model mapping and semantics](https://docs.rws.com/784837/695734/sdl-digital-experience-accelerator-2-2/model-mapping-and-semantics)
 Domain (Content Manager) Models are mapped to the Presentation (View) Models using Model Semantics so that web developers can work with data structures optimized for the Views they are creating without having to have a deep understanding of the underlying content model.
 
 ### API reference documentation downloads ###
-Links to download the API reference documentation for RWS Digital Experience Accelerator.
+Links to download the API reference documentation for DXA.
 - [DXA API for .NET](https://docs.sdl.com/DXA/DotNET/2.2/APIDOC/)
 - [DXA API for Java](https://docs.sdl.com/DXA/Java/2.2/APIDOC/)
 - [Content Delivery's Public Content API](https://docs.rws.com/TridionDocs15.1/PublicContentAPIReference)
