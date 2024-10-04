@@ -1,15 +1,15 @@
 # Tridion Docs API Documentation #
-## [Content Manager Web Services API](https://docs.rws.com/TridionDocs15.1/WebServicesAPI) ##
+## [Content Manager Web Services API](https://docs.rws.com/TridionDocs15/WebServicesAPI) ##
 This section contains information for developers to develop applications on top of the Content Manager Web Services API.
 
 You can only use the API classes and functions that are available from this page. Any other API functions are subject to change and not supported externally, so you should not use them.
 
-To directly access the API specification for Tridion Docs OpenAPI, go [here](../api/15.1/index.html)
+To directly access the API specification for Tridion Docs OpenAPI, go [here](../api/15.0/index.html)
 
 ## PowerShell modules
 
-### [ISHDeploy](https://docs.rws.com/TridionDocs15.1/ISHDeploy/)
-ISHDeploy is a PowerShell module that enables the code-as-configuration concept for Tridion Docs, starting from version 13.0.0, up to and including 15.1.0.
+### [ISHDeploy](https://docs.rws.com/TridionDocs15/ISHDeploy/)
+ISHDeploy is a PowerShell module that enables the code-as-configuration concept for Tridion Docs, starting from version 13.0.0, up to and including 15.0.0.
 
 ### [ISHRemote](https://github.com/RWS/ISHRemote)
 ISHRemote is a PowerShell module on top of Tridion Docs Content Manager. Its goal is business automation on top of the Component Content Management System.
@@ -46,4 +46,4 @@ Domain (Content Manager) Models are mapped to the Presentation (View) Models usi
 Links to download the API reference documentation for DXA.
 - [DXA API for .NET](https://docs.sdl.com/DXA/DotNET/2.2/APIDOC/)
 - [DXA API for Java](https://docs.sdl.com/DXA/Java/2.2/APIDOC/)
-- [Content Delivery's Public Content API](https://docs.rws.com/TridionDocs15.1/PublicContentAPIReference)
+- [Content Delivery's Public Content API](https://docs.rws.com/TridionDocs15/PublicContentAPIReference)
