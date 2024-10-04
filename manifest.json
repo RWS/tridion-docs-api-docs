@@ -49,24 +49,30 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "apiconcepts/Tridion_Docs_15.1/overview.md",
       "output": {
         ".html": {
           "relative_path": "apiconcepts/Tridion_Docs_15.1/overview.html",
-          "hash": "C5TDzkVZnOS/10lDdR1HV7B4o/zQuGRixEO9TmEaDXc="
+          "hash": "bjwQw1QmOBpFHSxMEv7krT7wrlTyIy4ZIpbG5cfDOck="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "apiconcepts/Tridion_Docs_15/overview.md",
       "output": {
         ".html": {
           "relative_path": "apiconcepts/Tridion_Docs_15/overview.html",
-          "hash": "jr2s3U1z/GNPv+c4KI4M3NfSbCuWUgDwQu3l0ZXyobo="
+          "hash": "4UHGz2bptajvKrsodJZXFxt0QmjJn25TFqb3CXwNCUI="
         }
       },
       "is_incremental": false,
