@@ -25,6 +25,270 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "api/15.0/index.html",
+      "output": {
+        "resource": {
+          "relative_path": "api/15.0/index.html"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "api/15.0/openapi.json",
+      "output": {
+        "resource": {
+          "relative_path": "api/15.0/openapi.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "api/15.0/swagger-ui.version",
+      "output": {
+        "resource": {
+          "relative_path": "api/15.0/swagger-ui.version"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "api/15.1/index.html",
+      "output": {
+        "resource": {
+          "relative_path": "api/15.1/index.html"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "api/15.1/openapi.json",
+      "output": {
+        "resource": {
+          "relative_path": "api/15.1/openapi.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "api/15.1/swagger-ui.version",
+      "output": {
+        "resource": {
+          "relative_path": "api/15.1/swagger-ui.version"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "api/dist/SwaggerTridion.js",
+      "output": {
+        "resource": {
+          "relative_path": "api/dist/SwaggerTridion.js"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "api/dist/favicon-16x16.png",
+      "output": {
+        "resource": {
+          "relative_path": "api/dist/favicon-16x16.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "api/dist/favicon-32x32.png",
+      "output": {
+        "resource": {
+          "relative_path": "api/dist/favicon-32x32.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "api/dist/index.css",
+      "output": {
+        "resource": {
+          "relative_path": "api/dist/index.css"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "api/dist/oauth2-redirect.html",
+      "output": {
+        "resource": {
+          "relative_path": "api/dist/oauth2-redirect.html"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "api/dist/swagger-initializer.js",
+      "output": {
+        "resource": {
+          "relative_path": "api/dist/swagger-initializer.js"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "api/dist/swagger-ui-bundle.js",
+      "output": {
+        "resource": {
+          "relative_path": "api/dist/swagger-ui-bundle.js"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "api/dist/swagger-ui-bundle.js.map",
+      "output": {
+        "resource": {
+          "relative_path": "api/dist/swagger-ui-bundle.js.map"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "api/dist/swagger-ui-es-bundle-core.js",
+      "output": {
+        "resource": {
+          "relative_path": "api/dist/swagger-ui-es-bundle-core.js"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "api/dist/swagger-ui-es-bundle-core.js.map",
+      "output": {
+        "resource": {
+          "relative_path": "api/dist/swagger-ui-es-bundle-core.js.map"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "api/dist/swagger-ui-es-bundle.js",
+      "output": {
+        "resource": {
+          "relative_path": "api/dist/swagger-ui-es-bundle.js"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "api/dist/swagger-ui-es-bundle.js.map",
+      "output": {
+        "resource": {
+          "relative_path": "api/dist/swagger-ui-es-bundle.js.map"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "api/dist/swagger-ui-standalone-preset.js",
+      "output": {
+        "resource": {
+          "relative_path": "api/dist/swagger-ui-standalone-preset.js"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "api/dist/swagger-ui-standalone-preset.js.map",
+      "output": {
+        "resource": {
+          "relative_path": "api/dist/swagger-ui-standalone-preset.js.map"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "api/dist/swagger-ui.css",
+      "output": {
+        "resource": {
+          "relative_path": "api/dist/swagger-ui.css"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "api/dist/swagger-ui.css.map",
+      "output": {
+        "resource": {
+          "relative_path": "api/dist/swagger-ui.css.map"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "api/dist/swagger-ui.js",
+      "output": {
+        "resource": {
+          "relative_path": "api/dist/swagger-ui.js"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "api/dist/swagger-ui.js.map",
+      "output": {
+        "resource": {
+          "relative_path": "api/dist/swagger-ui.js.map"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "apiconcepts/Tridion_Docs_14SP3/overview.md",
       "output": {
@@ -49,9 +313,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "apiconcepts/Tridion_Docs_15.1/overview.md",
       "output": {
@@ -64,9 +325,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "apiconcepts/Tridion_Docs_15/overview.md",
       "output": {
@@ -142,6 +400,13 @@
           "can_incremental": false,
           "incrementalPhase": "build",
           "total_file_count": 8,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
