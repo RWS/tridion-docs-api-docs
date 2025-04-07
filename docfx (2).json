@@ -1,0 +1,74 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "api/**.yml"
+        ]
+      },
+      {
+        "files": [
+          "*.md",
+          "*.yml"
+        ]
+      },
+      {
+        "files": [
+          "apiconcepts/**.md",
+          "apiconcepts/toc.yml"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/images/**"
+        ]
+      },
+      {
+        "files": [
+          "**/images/**",
+          "**/*.json",
+          "**/*.html",
+          "**/*.version",
+          "**/*.png",
+          "**/*.css",
+          "**/*.js",
+          "**/*.map",
+          "**/*.js.map"
+        ]
+      }
+    ],
+    "overwrite": [
+      {
+        "files": [
+          "api/**.md"
+        ],
+        "exclude": [
+          "obj/**",
+          "_site/**"
+        ]
+      }
+    ],
+    "dest": "_site",
+    "globalMetadataFiles": [],
+    "fileMetadataFiles": [],
+    "filemetadata": {
+      "langs": {
+        "api/**.yml": [ "csharp", "vb", "fsharp", "cpp" ]
+      }
+    },
+    "template": [
+      "RWSTemplate"
+    ],
+    "postProcessors": [ "ExtractSearchIndex" ],
+    "globalMetadata": {
+      "_enableSearch": true
+    },
+    "markdownEngineName": "dfm",
+    "noLangKeyword": false,
+    "keepFileLink": false,
+    "cleanupCacheHistory": false,
+    "disableGitFeatures": false
+  }
+}
