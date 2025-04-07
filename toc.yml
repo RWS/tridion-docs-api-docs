@@ -1,2 +1,4 @@
-- name: Getting Started
-  href: getting-started.md
+- name: Tridion Docs
+  href: index.md
+- name: API
+  href: apiconcepts/overview.md

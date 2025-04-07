@@ -1,4 +1,5 @@
-# Tridion Docs API Documentation #
+# Tridion Docs API Documentation 
+
 ## [Content Manager Web Services API](https://docs.rws.com/TridionDocs15/WebServicesAPI) ##
 This section contains information for developers to develop applications on top of the Content Manager Web Services API.
 

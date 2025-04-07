@@ -8,16 +8,23 @@
       },
       {
         "files": [
-          "articles/**.md",
-          "articles/**/toc.yml",
+          "*.md",
+          "*.yml"
+        ]
+      },
+      {
+        "files": [
           "apiconcepts/**.md",
-          "apiconcepts/**/toc.yml",
-          "toc.yml",
-          "*.md"
+          "apiconcepts/toc.yml"
         ]
       }
     ],
     "resource": [
+      {
+        "files": [
+          "**/images/**"
+        ]
+      },
       {
         "files": [
           "**/images/**",
