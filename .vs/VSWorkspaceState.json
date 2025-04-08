@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\api",
+    "\\apiconcepts\\Tridion_Docs_15",
+    "\\api\\15.1"
   ],
-  "SelectedNode": "\\C:\\Code\\GitHub\\tridion-docs-api-docs",
+  "SelectedNode": "\\api\\15.1\\index.html",
   "PreviewInSolutionExplorer": false
 }
