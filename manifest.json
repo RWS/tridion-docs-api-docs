@@ -1,5 +1,4 @@
 {
-  "homepages": [],
   "source_base_path": "D:/a/tridion-docs-api-docs/tridion-docs-api-docs",
   "xrefmap": "xrefmap.yml",
   "files": [
@@ -9,19 +8,16 @@
         "resource": {
           "relative_path": "index.json"
         }
-      },
-      "is_incremental": false
+      }
     },
     {
       "type": "Conceptual",
       "source_relative_path": "README.md",
       "output": {
         ".html": {
-          "relative_path": "README.html",
-          "hash": "+xXDMa5fnn9GfkPoUxKEfwa+8X0QbfEUz6Ijet7pLgE="
+          "relative_path": "README.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -32,7 +28,6 @@
           "relative_path": "RWSTemplate/ManagedReference.common.js"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -43,7 +38,6 @@
           "relative_path": "RWSTemplate/ManagedReference.extension.js"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -54,7 +48,16 @@
           "relative_path": "RWSTemplate/ManagedReference.html.primary.js"
         }
       },
-      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "RWSTemplate/Plugins/TradosStudioDocsPlugin.deps.json",
+      "output": {
+        "resource": {
+          "relative_path": "RWSTemplate/Plugins/TradosStudioDocsPlugin.deps.json"
+        }
+      },
       "version": ""
     },
     {
@@ -65,7 +68,6 @@
           "relative_path": "RWSTemplate/RestApi.common.js"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -76,7 +78,6 @@
           "relative_path": "RWSTemplate/RestApi.extension.js"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -87,7 +88,6 @@
           "relative_path": "RWSTemplate/RestApi.html.primary.js"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -98,7 +98,6 @@
           "relative_path": "RWSTemplate/UniversalReference.common.js"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -109,7 +108,6 @@
           "relative_path": "RWSTemplate/UniversalReference.extension.js"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -120,7 +118,6 @@
           "relative_path": "RWSTemplate/UniversalReference.html.primary.js"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -131,7 +128,6 @@
           "relative_path": "RWSTemplate/common.js"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -142,7 +138,6 @@
           "relative_path": "RWSTemplate/conceptual.extension.js"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -153,7 +148,6 @@
           "relative_path": "RWSTemplate/conceptual.html.primary.js"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -164,7 +158,6 @@
           "relative_path": "RWSTemplate/search-stopwords.json"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -175,7 +168,6 @@
           "relative_path": "RWSTemplate/styles/docfx.css"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -186,7 +178,6 @@
           "relative_path": "RWSTemplate/styles/docfx.js"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -197,7 +188,6 @@
           "relative_path": "RWSTemplate/styles/docfx.vendor.min.css"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -208,7 +198,6 @@
           "relative_path": "RWSTemplate/styles/docfx.vendor.min.css.map"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -219,7 +208,6 @@
           "relative_path": "RWSTemplate/styles/docfx.vendor.min.js"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -230,7 +218,6 @@
           "relative_path": "RWSTemplate/styles/docfx.vendor.min.js.map"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -241,7 +228,6 @@
           "relative_path": "RWSTemplate/styles/main.css"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -252,7 +238,6 @@
           "relative_path": "RWSTemplate/styles/main.js"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -263,7 +248,6 @@
           "relative_path": "RWSTemplate/styles/search-worker.min.js"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -274,7 +258,6 @@
           "relative_path": "RWSTemplate/styles/search-worker.min.js.map"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -285,7 +268,6 @@
           "relative_path": "RWSTemplate/toc.extension.js"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -296,7 +278,6 @@
           "relative_path": "RWSTemplate/toc.html.primary.js"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -307,7 +288,6 @@
           "relative_path": "RWSTemplate/toc.json.js"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -318,7 +298,6 @@
           "relative_path": "RWSTemplate/token.json"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -329,7 +308,6 @@
           "relative_path": "api/15.0/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -340,7 +318,6 @@
           "relative_path": "api/15.0/openapi.json"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -351,7 +328,6 @@
           "relative_path": "api/15.0/swagger-ui.version"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -362,7 +338,6 @@
           "relative_path": "api/15.1/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -373,7 +348,6 @@
           "relative_path": "api/15.1/openapi.json"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -384,7 +358,6 @@
           "relative_path": "api/15.1/swagger-ui.version"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -395,7 +368,6 @@
           "relative_path": "api/dist/SwaggerTridion.js"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -406,7 +378,6 @@
           "relative_path": "api/dist/favicon-16x16.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -417,7 +388,6 @@
           "relative_path": "api/dist/favicon-32x32.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -428,7 +398,6 @@
           "relative_path": "api/dist/index.css"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -439,7 +408,6 @@
           "relative_path": "api/dist/oauth2-redirect.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -450,7 +418,6 @@
           "relative_path": "api/dist/swagger-initializer.js"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -461,7 +428,6 @@
           "relative_path": "api/dist/swagger-ui-bundle.js"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -472,7 +438,6 @@
           "relative_path": "api/dist/swagger-ui-bundle.js.map"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -483,7 +448,6 @@
           "relative_path": "api/dist/swagger-ui-es-bundle-core.js"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -494,7 +458,6 @@
           "relative_path": "api/dist/swagger-ui-es-bundle-core.js.map"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -505,7 +468,6 @@
           "relative_path": "api/dist/swagger-ui-es-bundle.js"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -516,7 +478,6 @@
           "relative_path": "api/dist/swagger-ui-es-bundle.js.map"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -527,7 +488,6 @@
           "relative_path": "api/dist/swagger-ui-standalone-preset.js"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -538,7 +498,6 @@
           "relative_path": "api/dist/swagger-ui-standalone-preset.js.map"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -549,7 +508,6 @@
           "relative_path": "api/dist/swagger-ui.css"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -560,7 +518,6 @@
           "relative_path": "api/dist/swagger-ui.css.map"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -571,7 +528,6 @@
           "relative_path": "api/dist/swagger-ui.js"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -582,7 +538,6 @@
           "relative_path": "api/dist/swagger-ui.js.map"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -590,11 +545,9 @@
       "source_relative_path": "apiconcepts/Tridion_Docs_14SP3/overview.md",
       "output": {
         ".html": {
-          "relative_path": "apiconcepts/Tridion_Docs_14SP3/overview.html",
-          "hash": "oMdr9CYQ6Q9k56NRl8LRjYy1HxgkACZML63dUBwEFfs="
+          "relative_path": "apiconcepts/Tridion_Docs_14SP3/overview.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -602,15 +555,12 @@
       "source_relative_path": "apiconcepts/Tridion_Docs_14SP3/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "apiconcepts/Tridion_Docs_14SP3/toc.html",
-          "hash": "u5k4CtswerIZME9xGS8pr5w3dhwHzOKtqNoTjYrWXVI="
+          "relative_path": "apiconcepts/Tridion_Docs_14SP3/toc.html"
         },
         ".json": {
-          "relative_path": "apiconcepts/Tridion_Docs_14SP3/toc.json",
-          "hash": "MTa+j+XTs8QmEXR73sBQwMyDae9fr5vmWu1y9yXSTrA="
+          "relative_path": "apiconcepts/Tridion_Docs_14SP3/toc.json"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -618,11 +568,9 @@
       "source_relative_path": "apiconcepts/Tridion_Docs_14SP4/overview.md",
       "output": {
         ".html": {
-          "relative_path": "apiconcepts/Tridion_Docs_14SP4/overview.html",
-          "hash": "2EMQ24w2RdKzLKYAco4GSRtj4CAtksrzWMSwzRb3F0w="
+          "relative_path": "apiconcepts/Tridion_Docs_14SP4/overview.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -630,15 +578,12 @@
       "source_relative_path": "apiconcepts/Tridion_Docs_14SP4/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "apiconcepts/Tridion_Docs_14SP4/toc.html",
-          "hash": "u5k4CtswerIZME9xGS8pr5w3dhwHzOKtqNoTjYrWXVI="
+          "relative_path": "apiconcepts/Tridion_Docs_14SP4/toc.html"
         },
         ".json": {
-          "relative_path": "apiconcepts/Tridion_Docs_14SP4/toc.json",
-          "hash": "MTa+j+XTs8QmEXR73sBQwMyDae9fr5vmWu1y9yXSTrA="
+          "relative_path": "apiconcepts/Tridion_Docs_14SP4/toc.json"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -646,11 +591,9 @@
       "source_relative_path": "apiconcepts/Tridion_Docs_15.1/overview.md",
       "output": {
         ".html": {
-          "relative_path": "apiconcepts/Tridion_Docs_15.1/overview.html",
-          "hash": "AnPqzU6+2Aq+PcJNqeTjcX8P7VpmYbBBKm6awuZHwGQ="
+          "relative_path": "apiconcepts/Tridion_Docs_15.1/overview.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -658,15 +601,12 @@
       "source_relative_path": "apiconcepts/Tridion_Docs_15.1/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "apiconcepts/Tridion_Docs_15.1/toc.html",
-          "hash": "u5k4CtswerIZME9xGS8pr5w3dhwHzOKtqNoTjYrWXVI="
+          "relative_path": "apiconcepts/Tridion_Docs_15.1/toc.html"
         },
         ".json": {
-          "relative_path": "apiconcepts/Tridion_Docs_15.1/toc.json",
-          "hash": "MTa+j+XTs8QmEXR73sBQwMyDae9fr5vmWu1y9yXSTrA="
+          "relative_path": "apiconcepts/Tridion_Docs_15.1/toc.json"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -674,11 +614,9 @@
       "source_relative_path": "apiconcepts/Tridion_Docs_15/overview.md",
       "output": {
         ".html": {
-          "relative_path": "apiconcepts/Tridion_Docs_15/overview.html",
-          "hash": "HHBy87SYSvLi9ptG0zht0TQTystO67nkSZeYOTS687M="
+          "relative_path": "apiconcepts/Tridion_Docs_15/overview.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -686,15 +624,12 @@
       "source_relative_path": "apiconcepts/Tridion_Docs_15/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "apiconcepts/Tridion_Docs_15/toc.html",
-          "hash": "u5k4CtswerIZME9xGS8pr5w3dhwHzOKtqNoTjYrWXVI="
+          "relative_path": "apiconcepts/Tridion_Docs_15/toc.html"
         },
         ".json": {
-          "relative_path": "apiconcepts/Tridion_Docs_15/toc.json",
-          "hash": "MTa+j+XTs8QmEXR73sBQwMyDae9fr5vmWu1y9yXSTrA="
+          "relative_path": "apiconcepts/Tridion_Docs_15/toc.json"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -702,11 +637,9 @@
       "source_relative_path": "apiconcepts/overview.md",
       "output": {
         ".html": {
-          "relative_path": "apiconcepts/overview.html",
-          "hash": "w+AXnGnpDMNJaHiK+LtwCngfQOpE+72VcNUZ17arTV8="
+          "relative_path": "apiconcepts/overview.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -714,15 +647,12 @@
       "source_relative_path": "apiconcepts/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "apiconcepts/toc.html",
-          "hash": "u5k4CtswerIZME9xGS8pr5w3dhwHzOKtqNoTjYrWXVI="
+          "relative_path": "apiconcepts/toc.html"
         },
         ".json": {
-          "relative_path": "apiconcepts/toc.json",
-          "hash": "MTa+j+XTs8QmEXR73sBQwMyDae9fr5vmWu1y9yXSTrA="
+          "relative_path": "apiconcepts/toc.json"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -730,11 +660,9 @@
       "source_relative_path": "articles/intro.md",
       "output": {
         ".html": {
-          "relative_path": "articles/intro.html",
-          "hash": "1EgyRl6WpHvo9h+mz6DmpJwAFUeKGl2hWShZQJu0/rs="
+          "relative_path": "articles/intro.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -742,26 +670,12 @@
       "source_relative_path": "articles/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "articles/toc.html",
-          "hash": "PNIGETVQoHCKioHI36RaPIN9Rds7l8BAraJZbLfuJMs="
+          "relative_path": "articles/toc.html"
         },
         ".json": {
-          "relative_path": "articles/toc.json",
-          "hash": "PDnlwXHLqFpWnXG3H/pIsMBhDvX6HUENGYky0hDuHqI="
+          "relative_path": "articles/toc.json"
         }
       },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "docfx (2).json",
-      "output": {
-        "resource": {
-          "relative_path": "docfx (2).json"
-        }
-      },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -772,18 +686,6 @@
           "relative_path": "docfx.json"
         }
       },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "docfx_project/docfx.json",
-      "output": {
-        "resource": {
-          "relative_path": "docfx_project/docfx.json"
-        }
-      },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -791,11 +693,9 @@
       "source_relative_path": "getting-started.md",
       "output": {
         ".html": {
-          "relative_path": "getting-started.html",
-          "hash": "xBCvZdB3A3r0c9ItwRDk1bBLlPr+w9adb+7HYpTDry8="
+          "relative_path": "getting-started.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -803,11 +703,9 @@
       "source_relative_path": "index.md",
       "output": {
         ".html": {
-          "relative_path": "index.html",
-          "hash": "5gHT3RY/iXlUtShEVkSoUbwD0n4HuJpCaiWK/aVoNfQ="
+          "relative_path": "index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -815,63 +713,15 @@
       "source_relative_path": "toc.yml",
       "output": {
         ".html": {
-          "relative_path": "toc.html",
-          "hash": "sez1Fn8LDjUV10tFggzmh2JICMej+6sqmtDLR5ekeSs="
+          "relative_path": "toc.html"
         },
         ".json": {
-          "relative_path": "toc.json",
-          "hash": "5OajzQiDEQ6bqmgVrI/klDgqK5qDlyV6UJrRBHVAveQ="
+          "relative_path": "toc.json"
         }
       },
-      "is_incremental": false,
       "version": ""
     }
   ],
-  "incremental_info": [
-    {
-      "status": {
-        "can_incremental": false,
-        "details": "Cannot build incrementally because last build info is missing.",
-        "incrementalPhase": "build",
-        "total_file_count": 0,
-        "skipped_file_count": 0,
-        "full_build_reason_code": "NoAvailableBuildCache"
-      },
-      "processors": {
-        "ConceptualDocumentProcessor": {
-          "can_incremental": false,
-          "incrementalPhase": "build",
-          "total_file_count": 9,
-          "skipped_file_count": 0
-        },
-        "ResourceDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build",
-          "total_file_count": 0,
-          "skipped_file_count": 0
-        },
-        "TocDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build",
-          "total_file_count": 0,
-          "skipped_file_count": 0
-        }
-      }
-    },
-    {
-      "status": {
-        "can_incremental": false,
-        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
-        "incrementalPhase": "postProcessing",
-        "total_file_count": 0,
-        "skipped_file_count": 0
-      },
-      "processors": {}
-    }
-  ],
-  "version_info": {},
   "groups": [
     {
       "xrefmap": "xrefmap.yml"
