@@ -1,5 +1,5 @@
 {
-  "source_base_path": "D:/a/tridion-docs-api-docs/tridion-docs-api-docs",
+  "source_base_path": "C:/a/tridion-docs-api-docs/tridion-docs-api-docs",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -356,6 +356,36 @@
       "output": {
         "resource": {
           "relative_path": "api/15.1/swagger-ui.version"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "api/15.2/index.html",
+      "output": {
+        "resource": {
+          "relative_path": "api/15.2/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "api/15.2/openapi.json",
+      "output": {
+        "resource": {
+          "relative_path": "api/15.2/openapi.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "api/15.2/swagger-ui.version",
+      "output": {
+        "resource": {
+          "relative_path": "api/15.2/swagger-ui.version"
         }
       },
       "version": ""
