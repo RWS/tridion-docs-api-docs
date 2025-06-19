@@ -4,7 +4,7 @@ This section contains information for developers to develop applications on top 
 
 You can only use the API classes and functions that are available from this page. Any other API functions are subject to change and not supported externally, so you should not use them.
 
-To directly access the API specification for Tridion Docs OpenAPI, go [here](../../api/15.2/index.html)
+To directly access the API specification for Tridion Docs OpenAPI, go [here](../../api/15.2/index.html).
 
 ## PowerShell modules
 
