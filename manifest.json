@@ -392,6 +392,36 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "api/15.3/index.html",
+      "output": {
+        "resource": {
+          "relative_path": "api/15.3/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "api/15.3/openapi.json",
+      "output": {
+        "resource": {
+          "relative_path": "api/15.3/openapi.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "api/15.3/swagger-ui.version",
+      "output": {
+        "resource": {
+          "relative_path": "api/15.3/swagger-ui.version"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "api/dist/SwaggerTridion.js",
       "output": {
         "resource": {
