@@ -694,6 +694,29 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "apiconcepts/Tridion_Docs_15.3/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "apiconcepts/Tridion_Docs_15.3/overview.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "apiconcepts/Tridion_Docs_15.3/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "apiconcepts/Tridion_Docs_15.3/toc.html"
+        },
+        ".json": {
+          "relative_path": "apiconcepts/Tridion_Docs_15.3/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "apiconcepts/Tridion_Docs_15/overview.md",
       "output": {
         ".html": {
