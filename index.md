@@ -12,13 +12,19 @@ To let us know what your suggested improvements are you can do this by using the
 
 
 
-## Current release: Tridion Docs 15.2
+## Current release: Tridion Docs 15.3
 
-[Learn more about the Tridion Docs 15.2 APIs](apiconcepts/Tridion_Docs_15.2/overview.md)
+[Learn more about the Tridion Docs 15.3 APIs](apiconcepts/Tridion_Docs_15.3/overview.md)
 
 Learn more about the APIs and what you can achieve with them.
 
 ## Earlier releases
+
+### Tridion Docs 15.2
+
+[Learn more about the Tridion Docs 15.2 APIs](apiconcepts/Tridion_Docs_15.2/overview.md)
+
+Learn more about the APIs and what you can achieve with them.
 
 ### Tridion Docs 15.1
 
