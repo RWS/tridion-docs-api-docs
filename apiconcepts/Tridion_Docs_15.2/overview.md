@@ -44,6 +44,6 @@ Domain (Content Manager) Models are mapped to the Presentation (View) Models usi
 
 ### API reference documentation downloads ###
 Links to download the API reference documentation for DXA.
-- [DXA API for .NET](https://docs.sdl.com/DXA/DotNET/2.2/APIDOC/)
-- [DXA API for Java](https://docs.sdl.com/DXA/Java/2.2/APIDOC/)
+- [DXA API for .NET](https://docs.rws.com/DXA/DotNET/2.2/APIDOC/)
+- [DXA API for Java](https://docs.rws.com/DXA/Java/2.2/APIDOC/)
 - [Content Delivery's Public Content API](https://docs.rws.com/TridionDocs15.2/PublicContentAPIReference)
